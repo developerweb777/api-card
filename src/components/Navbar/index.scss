@@ -1,0 +1,19 @@
+.header{
+    background-color:crimson;
+  
+    &_nav{
+        max-width: 100%;
+        height: 70px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        &_ul{
+            width: 45%;
+            display: flex;
+            justify-content: space-between;
+            &_li{
+                color: #fff;
+            }
+        }
+    }
+}

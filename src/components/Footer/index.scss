@@ -1,0 +1,10 @@
+.footer{
+    background-color: crimson;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &_h4{
+        color: #ffffff;
+    }
+}
